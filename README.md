@@ -37,6 +37,8 @@ with open("{0}.csv".format(filename), 'r') as csvfile:
             print ("No result for {0}".format(splitted_line[0]))
 ```
 
-Paste the code in your favorite editor.
+* Paste the code in your favorite editor.
+* Navigate to your project directory.
+* Run ```python image_downloader.py```
 
-![alt text](https://github.com/Precillieo/Financial-Model/blob/main/image%20scrapper.jpg)
+![alt text](https://github.com/Precillieo/Financial-Model/blob/main/downloader.jpg)
